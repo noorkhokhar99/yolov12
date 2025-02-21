@@ -24,10 +24,12 @@
 - 2025/02/21: Try yolo12 for classification, oriented bounding boxes, pose estimation, and instance segmentation at [ultralytics](https://github.com/ultralytics/ultralytics/tree/main/ultralytics/cfg/models/12). Thanks to them!
 
 - 2025/02/20: [Any computer or edge device?](https://github.com/roboflow/inference) Support yolo12 now.  
-  
+
 - 2025/02/20: [ONNX CPP Version](https://github.com/mohamedsamirx/YOLOv12-ONNX-CPP). [Train a yolov12 model on a custom dataset?](https://blog.roboflow.com/train-yolov12-model/) An introduction at [Youtube](https://www.youtube.com/watch?v=1YZDsZL_VyI&t=120s).
 
 - 2025/02/19: [arXiv version](https://arxiv.org/abs/2502.12524) is public. [Demo](https://huggingface.co/spaces/sunsmarterjieleaf/yolov12) is available (try [Demo2](https://huggingface.co/spaces/sunsmarterjieleaf/yolov12_demo2) [Demo3](https://huggingface.co/spaces/sunsmarterjieleaf/yolov12_demo3) if busy).
+
+- **2025/02/23**: [YOLO12: How to Train for Object Detection on a Custom Dataset | Step-by-step Guide](https://youtu.be/dO8k5rgXG0M) by [Noor](https://github.com/noorkhokhar99). A comprehensive tutorial on training YOLO12 with custom datasets.
 
 
 <details>
