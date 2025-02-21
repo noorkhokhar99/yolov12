@@ -19,6 +19,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2502.12524-b31b1b.svg)](https://arxiv.org/abs/2502.12524) [![Hugging Face Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/sunsmarterjieleaf/yolov12) <a href="https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/train-yolov12-object-detection-model.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a> [![deploy](https://media.roboflow.com/deploy.svg)](https://blog.roboflow.com/use-yolov12-with-roboflow/#deploy-yolov12-models-with-roboflow)
 
 ## Updates
+
+- 2025/02/22: [How to train YOLO12 on a custom dataset | Step-by-step guide](https://youtu.be/dO8k5rgXG0M) by [Noor](https://github.com/noorkhokhar99).
+
 - 2025/02/22: [Android deploy](https://github.com/mpj1234/ncnn-yolov12-android/tree/main). [TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) accelerates yolo12 inference. Thanks to them!
 
 - 2025/02/21: Try yolo12 for classification, oriented bounding boxes, pose estimation, and instance segmentation at [ultralytics](https://github.com/ultralytics/ultralytics/tree/main/ultralytics/cfg/models/12). Thanks to them!
